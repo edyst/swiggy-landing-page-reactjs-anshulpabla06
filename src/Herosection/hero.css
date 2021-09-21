@@ -1,0 +1,334 @@
+.hero1 {
+  float: left;
+  padding-top: 4%;
+  padding-left: 7%;
+  padding-right: 4%;
+  width: 55%;
+
+}
+
+.navlogo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn-group {
+  float: right;
+
+}
+
+.logingrp {
+  height: 50px;
+}
+
+.login {
+  text-align: center;
+  width: 130px;
+  display: inline-block;
+  font-weight: 600;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: none;
+  background-color: white;
+}
+
+.signup {
+  text-align: center;
+  width: 130px;
+  display: inline-block;
+  font-weight: 600;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: none;
+  background-color: black;
+}
+
+.signup:hover {
+
+  color: white;
+  box-shadow: 0 1px 3px 0 black;
+  transition: 0.5s;
+}
+
+.logo {
+  width: 200px;
+
+}
+
+#text1 {
+  margin-top: 5%;
+
+}
+
+#subh1 {
+  font-size: 25px;
+  font-weight: 400;
+  text-align: left;
+  line-height: 40px;
+  letter-spacing: -.3px;
+  color: #686b78;
+  text-transform: none;
+}
+
+#animateh::before {
+  color: black;
+  font-size: 45px;
+  font-weight: 600;
+  margin-top: 0;
+  content: "Movie Marathon";
+
+  animation: animate infinite 15s;
+}
+
+@keyframes animate {
+  10% {
+    content: "Match Day!"
+  }
+
+  20% {
+    content: "Game Night?";
+  }
+
+  40% {
+    content: "Late Night At Office";
+  }
+
+  60% {
+    content: "Hungry";
+  }
+
+  80% {
+    content: "Unexpected Guests?";
+  }
+}
+
+.inputbar {
+  border: 1px solid #fc8019;
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+input[type="text"],
+textarea,
+select {
+  outline: none;
+}
+
+
+
+.btnfood {
+  float: right;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  color: #fff;
+  background-color: #fc8019;
+  height: 60px;
+  width: 140px;
+  font-size: 16px;
+  font-weight: 600;
+
+}
+
+#locatebtn {
+  height: 60px;
+  width: 120px;
+  padding: 5%;
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  color: #686b78;
+  background-color: transparent;
+}
+
+input {
+  border: none;
+  height: 54px !important;
+  line-height: 28px !important;
+  padding-top: 0 !important;
+  caret-color: #fc8019;
+  font-size: 18px !important;
+  font-weight: 500;
+  width: 250px;
+  padding-left: 2%;
+}
+
+#popcities {
+  font-weight: 400;
+  font-size: 18px;
+  color: #a9abb2;
+  margin: 30px 0 10px;
+  text-transform: uppercase;
+}
+
+#ul {
+  text-align: left;
+}
+
+.cityname {
+  display: inline-block;
+  padding: 0;
+}
+
+.citieslist {
+  width: 100%;
+  list-style: none;
+  list-style-position: initial;
+  list-style-image: initial;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.odd {
+  color: #686b78;
+  font-weight: 800;
+  font-size: 16px;
+  margin-right: 12px;
+
+  text-decoration: none;
+
+}
+
+.even {
+  font-weight: 800;
+  font-size: 16px;
+  margin-right: 12px;
+  color: #93959f;
+  text-decoration: none;
+}
+
+.odd:hover,
+.even:hover {
+  text-decoration: none;
+}
+
+.login:hover {
+  color: black;
+}
+
+.odd:hover,
+.even:hover {
+  color: gray;
+}
+
+
+@media only screen and (max-width: 500px) {
+  .hero1 {
+    background: linear-gradient(rgb(0, 0, 0, 0.8), rgb(255, 255, 255, 0.6), rgb(0, 0, 0, 0.8)), url("https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_1340/Dinner3-new_sacgrd");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    width: 100%;
+
+  }
+
+  .navlogo {
+    flex-direction: column;
+    width: 100%;
+    padding-top: 5%;
+    margin-left: 15%;
+  }
+
+  .logo {
+    margin-left: 10%;
+  }
+
+  .logingrp {
+    width: 220px;
+    margin-left: 8%;
+    margin-top: 4%;
+  }
+
+  .login {
+    background: transparent;
+    width: 110px;
+
+  }
+
+  .signup {
+    width: 110px;
+  }
+
+  #subh1 {
+    text-align: center;
+    font-weight: 500;
+  }
+
+  #animateh {
+    text-align: center;
+  }
+
+  .inputbar {
+
+    flex-direction: column;
+    border: none;
+    margin-left: 15%;
+  }
+
+  .locategrp {
+
+    width: 220px;
+    margin-left: 8%;
+    margin-top: 4%;
+  }
+
+  #location {
+
+    background: transparent;
+    width: 300px;
+    border-bottom: 4px solid #fc8019;
+    font-weight: 700;
+
+  }
+
+  ::placeholder {
+    color: black;
+  }
+
+  #locatebtn {
+    width: 110px;
+    color: black;
+  }
+
+  .btnfood {
+    width: 110px;
+  }
+
+  #ul {
+    text-align: center;
+  }
+
+  #popcities {
+    color: black;
+    font-weight: 700;
+    font-size: 22px;
+  }
+  
+.login:hover {
+  color: white;
+}
+
+.odd:hover,
+.even:hover {
+  color: gray;
+}
+
+
+}

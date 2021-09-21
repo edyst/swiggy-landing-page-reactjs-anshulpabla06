@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: proxima-nova, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+}
+
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  background: #2b1e16;
+  justify-content: space-around;
+  text-align: center;
+  padding-bottom: 4%;
+
+}
+
+@media only screen and (max-width: 500px) {
+  .wrapper {
+    flex-direction: column;
+
+  }
+
+}

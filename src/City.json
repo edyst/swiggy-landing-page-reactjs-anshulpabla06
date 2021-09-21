@@ -1,0 +1,254 @@
+{"city":[[
+    {
+        "id": "1",
+        "name": "Abohar" 
+       
+    },
+    {
+        "id": "2",
+        "name": " Adilabad"
+    },
+    {
+        "id": "3",
+        "name": "   Agartala"
+    },
+    {
+        "id": "4",
+        "name": "  Agra"
+    },
+    {
+        "id": "5",
+        "name": " Ballari "
+    },
+    {
+        "id": "6",
+        "name": " Balrampur"
+    },
+    {
+        "id": "7",
+        "name": "Balurghat"
+    },
+    {
+        "id": "8",
+        "name": " Bangalore"
+    },
+    {
+        "id": "9",
+        "name": "Bankura"
+    },
+    {
+        "id": "10",
+        "name": "Central-Goa"
+    },
+    {
+        "id": "11",
+        "name": " Chalakkudy"
+    },
+    {
+        "id": "12",
+        "name": " Chalisgaon"
+    },
+    {
+        "id": "13",
+        "name": " Chandigarh"
+    },
+    {
+        "id": "14",
+        "name": "  Changanasherry"
+    },
+    {
+        "id": "15",
+        "name": "Dabhoi"
+    }],
+
+
+        [{
+        "id": "16",
+        "name": " Dabra"
+    },
+    {
+        "id": "17",
+        "name": " Dahanu"
+    },
+    {
+        "id": "18",
+        "name": " Dahod"
+    },
+    {
+        "id": "19",
+        "name": "Eluru"
+    },
+    {
+        "id": "20",
+        "name": "Erode"
+    },
+    {
+        "id": "21",
+        "name": "Etawah"
+    },
+    {
+        "id": "22",
+        "name": "Faizabad"
+    },
+    {
+        "id": "23",
+        "name": "Faridkot"
+    },
+    {
+        "id": "24",
+        "name": "Farrukhabad"
+    },
+    {
+        "id": "25",
+        "name": "Fatehgarh-Sahib"
+    },
+    {
+        "id": "26",
+        "name": "Fatehpur"
+    },
+    {
+        "id": "27",
+        "name": "Gadwal"
+    },
+    {
+        "id": "28",
+        "name": "Gandhidham"
+    },
+    {
+        "id": "29",
+        "name": "Gangawati"
+    },
+    {
+        "id": "30",
+        "name": "Gangtok"
+        }],
+
+
+    
+ [{
+        "id": "31",
+        "name": "Gaya"
+    },
+    {
+        "id": "32",
+        "name": "Habra"
+        },
+        {
+        "id": "33",
+        "name": "Haldia"
+    },
+    {
+        "id": "34",
+        "name": "Hardiwar"
+    },
+    {
+        "id": "35",
+        "name": "Imphal"
+    },
+    {
+        "id": "36",
+        "name": "Indore"
+    },
+    {
+        "id": "37",
+        "name": "Itanagar"
+    },
+    {
+        "id": "38",
+        "name": "Jabalpur"
+    },
+    {
+        "id": "39",
+        "name": "Jagdalpur"
+     },
+     {
+        "id": "40",
+        "name": "Jagraon"
+    },
+    {
+        "id": "41",
+        "name": "Jaigaon"
+    },
+    {
+        "id": "42",
+        "name": "Jaipur"
+        },
+        {
+        "id": "43",
+        "name": "Kadapa"
+    },
+     {
+        "id": "44",
+        "name": "Kadiri"
+    }, 
+    {
+        "id": "45",
+        "name": "Lakhimpur"
+        }],
+
+
+       
+     
+    
+        [{
+        "id": "46",
+        "name": "Lalitpur"
+    }, 
+    {
+        "id": "47",
+        "name": "  Machilipatnam"
+    }, 
+    {
+        "id": "48",
+        "name": "Madurai"
+    }, 
+    {
+        "id": "49",
+        "name": "Na"
+    }, 
+    {
+        "id": "50",
+        "name": "Noida"
+    },
+    {
+        "id": "51",
+        "name": "Jaipur"
+    },
+     {
+        "id": "52",
+        "name": "Ooty"
+    },
+     {
+        "id": "53",
+        "name": "Pala"
+    },
+     {
+        "id": "54",
+        "name": "Rae-Bareli"
+    },
+     {
+        "id": "55",
+        "name": "Sagar"
+    },
+    {
+        "id": "56",
+        "name": "Tadepalligudem"
+    },
+     {
+        "id": "57",
+        "name": "Udaipur"
+    }, 
+    {
+        "id": "58",
+        "name": "Vadodra"
+    },
+     {
+        "id": "59",
+        "name": "Waidhan"
+    },
+     {
+        "id": "60",
+        "name": "Yavatmal"
+    }
+    
+]]}
