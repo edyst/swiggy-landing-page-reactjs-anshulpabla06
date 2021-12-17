@@ -1,0 +1,34 @@
+.flexfeature {
+    text-align: center;
+
+}
+
+.subhead3 {
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 0;
+    text-transform: none;
+}
+
+.p3 {
+    margin-left: 21%;
+    margin-right: 21%;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #e0cbc1;
+
+}
+
+.fimg {
+    height: 210px;
+    margin-bottom: 42px;
+}
+
+@media only screen and (max-width: 500px) {
+    .p3 {
+        margin: none;
+
+    }
+
+}
